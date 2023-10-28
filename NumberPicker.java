@@ -1,8 +1,9 @@
-import java.util.Random;
+import java.util.*; // wildcard import
 
 public class NumberPicker {
     public static void main(String[] args) {
         Random r = new Random();
-        System.out.println(r.nextInt(10)); // will not compile without the import on line 1
-    }   // from page 11-12
+        System.out.println(r.nextInt(10)); // wildcard imported
+        System.out.println(new Date());          // wildcard imported
+    }   // from page 13
 }
