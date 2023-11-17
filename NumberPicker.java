@@ -12,5 +12,5 @@ public class NumberPicker {
         Random r = new Random();
         System.out.println(r.nextInt(10));
         System.out.println(new java.util.Date());
-    }   // from page 11-13
+    }   // page 11-13
 }
