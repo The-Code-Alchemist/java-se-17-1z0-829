@@ -1,5 +1,5 @@
-import java.lang.System;    // automatically imported
-import java.lang.*;         // automatically imported
+import java.lang.System;    // automatically imported  redundant for an explicit import
+import java.lang.*;         // automatically imported, redundant for an explicit import
 import java.util.Random;    // explicitly imported single class
 import java.util.*;         // explicitly imported with wildcard, currently redundant
 
