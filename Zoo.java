@@ -1,9 +1,9 @@
 /**
  * @author The Code Alchemist
- * passing only no arguments causes an ArrayIndexOutOfBoundsException on line 13
- * passing only one argument causes an ArrayIndexOutOfBoundsException on line 14
+ * Passing only no arguments causes an ArrayIndexOutOfBoundsException on line 13
+ * Passing only one argument causes an ArrayIndexOutOfBoundsException on line 14
  *
- * example and explanation
+ * Example and explanation: the next line compiles and runs Zoo.java with one command
  * java Zoo.java "Bronx is a borough in New York City" Zoo
  * The text between double quotes is a single argument
  * A space separates arguments
