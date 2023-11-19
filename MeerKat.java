@@ -4,7 +4,7 @@
  * import statements come next
  * fields and methods can be in any order as long as they are present
  */
-package example;
+
 import java.util.*;
 
 public class MeerKat {
