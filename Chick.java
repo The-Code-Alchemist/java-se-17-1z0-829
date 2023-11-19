@@ -13,5 +13,5 @@ public class Chick {
     public static void main(String[] args) {
         Chick chick = new Chick();  // although the reference variable is not used further, the constructor is called
         System.out.println("Hi " + name);
-    }
+    }   // page 23
 }

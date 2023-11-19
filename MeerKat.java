@@ -18,5 +18,5 @@ public class MeerKat {
         double height = 18.5; // needs to be static outside the main method
 
         System.out.println(name + " weighed " + getWeight() + "KGs" + " with a height of " + height + " on " + new Date());
-    }
+    }   // page 22
 }
